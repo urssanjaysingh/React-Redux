@@ -1,6 +1,6 @@
 # React Redux GitHub Directory - urssanjaysingh/React-Redux
 
-Welcome to the GitHub repository for the React Redux project - urssanjaysingh/React-Redux!
+Welcome to the GitHub repository for the React Redux - urssanjaysingh/React-Redux!
 
 ## Overview
 
